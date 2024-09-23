@@ -1,2 +1,2 @@
-# aralasu.github.io
-hoşgeldiniz
+# HOME
+<h1>Bakalım Nasıl olacak</h1>
